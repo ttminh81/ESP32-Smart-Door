@@ -1,0 +1,15 @@
+2025-03-18 00:14:00,740 - panelizer_logger - INFO - Running Panelizer
+2025-03-18 00:14:00,744 - panelizer_logger - INFO - ['--panelx', '139.700000', '--panely', '190.500000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000']
+2025-03-18 00:14:00,746 - panelizer_logger - INFO - PANELIZER START: 2025-03-18T00:14:00.746622
+2025-03-18 00:14:03,135 - panelizer_logger - WARNING - 
+START: 2025-03-18T00:14:00.746622
+Board saved by user.
+Zones filled by Panelizer.
+
+Board: D:/Project_Ngoai/ESP32_SMART_DELIVERY/ES32_SmartBox\Production\Production\ES32_SmartBox_panelized_panelized.kicad_pcb
+Board dimensions: 73.58 x 95.89 mm.
+You can fit 1 x 1 boards on the panel.
+Zones refilled by Panelizer.
+Warning: Ordering Instructions contains default values.
+
+2025-03-18 00:14:04,561 - panelizer_logger - INFO - Panelizer complete
